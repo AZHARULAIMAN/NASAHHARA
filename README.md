@@ -18,11 +18,9 @@
       font-size: 0.2em;
       margin-top: 25px;
     }
-
     p {
       font-size: 0.8em;
     }
-
     img {
       max-width: 250px;
       border-radius: 20px;
@@ -50,7 +48,6 @@
       transform: rotate(45deg);
       animation: float 10s ease-in;
     }
-
     .heart::before,
     .heart::after {
       content: "";
@@ -60,17 +57,14 @@
       background: red;
       border-radius: 50%;
     }
-
     .heart::before {
       top: -10px;
       left: 0;
     }
-
     .heart::after {
       left: -10px;
       top: 0;
     }
-
     @keyframes float {
       0% {
         transform: translateY(0) rotate(45deg);
@@ -116,6 +110,7 @@ diuji oleh yang Esa. Semoga awak sentiasa kuat okay. I'm always here for you.. I
     // Create floating hearts
     function createHeart() {
       const heart = document.createElement('div');
+      const colors = ['#FF69B4', '#FF1493', '#FFD700', '#00FFFF', '#ADFF2F', '#FF4500', '#8A2BE2'];
       heart.classList.add('heart');
       heart.style.left = Math.random() * 100 + "vw";
       heart.style.animationDuration = (5 + Math.random() * 5) + "s";

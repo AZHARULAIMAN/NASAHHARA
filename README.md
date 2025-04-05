@@ -30,7 +30,18 @@
       box-shadow: 0 4px 8px rgba(0,0,0,0.2);
       margin: 20px 0;
     }
-
+        .button {
+            background-color: #f5f5dc;
+            color: black;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #ff1a1a;
+        }
     .video-button {
       padding: 10px 20px;
       font-size: 1em;
@@ -99,7 +110,8 @@ diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat
 
   <!-- Girlfriend Image -->
   <img src="IMG-20250401-WA0002.jpg" alt="My Beautiful Girlfriend" />
-
+    </div>
+    <a href="FB_VID_3300536119473816444.mp4" class="button">Your Special Gift</a>
   <!-- Video button -->
   <br />
   <button class="video-button" onclick="showVideo()">Watch a Special Video 🎥</button>

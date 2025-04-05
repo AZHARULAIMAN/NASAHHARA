@@ -93,8 +93,9 @@
   </style>
 </head>
 <body>
-  <h1>Happy Birthday, Babe! 💖</h1>
-  <p>You are the sunshine in my life, and today is your special day ✨</p>
+  <h1>Happy Birthday Nasahhara! 💖</h1>
+  <p>Barakallahu fii umrik, Semoga awak dipanjangkan umur dan diluaskan rezeki selalu ameeen! Selamat menyambut hari kelahiran yea. Saya mendoakan yang terbaik untuk awak! Jadi anak yang baik tau patuh taat kepada Mak, jangan melawan, sentiasa hormat mereka okay. Semoga awak sentiasa kuat hadapi ujian yang mendatang dalam kehidupan, kita sentiasa
+diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat untuk menempuhi dugaan dalam kehidupan. Semoga sayang sentiasa kuat okay. I'm always here ! I Love You So Much Baby! ✨</p>
 
   <!-- Girlfriend Image -->
   <img src="IMG-20250401-WA0002.jpg" alt="My Beautiful Girlfriend" />

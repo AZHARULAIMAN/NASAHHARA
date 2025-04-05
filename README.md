@@ -21,7 +21,7 @@
     }
 
     p {
-      font-size: 1.2em;
+      font-size: 0.8em;
     }
 
     img {

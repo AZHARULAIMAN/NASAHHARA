@@ -94,8 +94,6 @@ diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat
    <a href="FB_VID_3300536119473816444.mp4" class="button">Click Here !</a>
   <!-- Video button -->
   <br />
-  </di1v>
-
   <!-- Background music -->
   <audio autoplay loop>
 <div style="position: absolute; left: -9999px;">

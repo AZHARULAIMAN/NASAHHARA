@@ -16,7 +16,7 @@
     }
     h1 {
       font-size: 1.2em;
-      margin-top: 15px;
+      margin-top: 25px;
     }
 
     p {
@@ -85,8 +85,8 @@
 </head>
 <body>
   <h1>Happy Birthday Nasahhara! 💖</h1>
-  <p>Barakallahu fii umrik, Semoga awak dipanjangkan umur dan diluaskan rezeki selalu ameeen! Selamat menyambut hari kelahiran yea. Saya mendoakan yang terbaik untuk awak! Jadi anak yang baik tau patuh taat kepada Mak, jangan melawan, sentiasa hormat mereka okay. Semoga awak sentiasa kuat hadapi ujian yang mendatang dalam kehidupan, kita sentiasa
-diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat untuk menempuhi dugaan dalam kehidupan. Semoga sayang sentiasa kuat okay. I'm always here ! I Love You So Much Baby! ✨</p>
+  <p>Barakallahu fii umrik, Semoga awak dipanjangkan umur dan diluaskan rezeki selalu ameeen! Selamat menyambut hari kelahiran yea. Saya mendoakan yang terbaik untuk awak! Jadi anak yang baik tau patuh taat kepada Mak, dengar kata, sentiasa hormat Mak okay. Semoga awak sentiasa kuat hadapi ujian yang mendatang dalam kehidupan, kita sentiasa
+diuji oleh yang Esa. Semoga awak sentiasa kuat okay. I'm always here for you.. I Love You ! ✨</p>
 
   <!-- Girlfriend Image -->
   <img src="IMG-20250401-WA0002.jpg" alt="My Beautiful Girlfriend" />

@@ -14,9 +14,8 @@
       padding: 30px;
       overflow: hidden;
     }
-
     h1 {
-      font-size: 1.5em;
+      font-size: 1.2em;
       margin-top: 15px;
     }
 

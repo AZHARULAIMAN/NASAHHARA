@@ -68,7 +68,7 @@
       height: 20px;
       background: red;
       transform: rotate(45deg);
-      animation: float 10s infinite ease-in;
+      animation: float 10s ease-in;
     }
 
     .heart::before,
@@ -110,8 +110,7 @@ diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat
 
   <!-- Girlfriend Image -->
   <img src="IMG-20250401-WA0002.jpg" alt="My Beautiful Girlfriend" />
-    </div>
-    <a href="FB_VID_3300536119473816444.mp4" class="button">Your Special Gift</a>
+   <a href="FB_VID_3300536119473816444.mp4" class="button">Click Here !</a>
   <!-- Video button -->
   <br />
   <button class="video-button" onclick="showVideo()">Watch a Special Video 🎥</button>
@@ -126,7 +125,15 @@ diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat
 
   <!-- Background music -->
   <audio autoplay loop>
-    <source src="happy-birthday-254480.mp3" type="audio/mpeg">
+<div style="position: absolute; left: -9999px;">
+  <iframe
+    width="0"
+    height="0"
+    src="[https://www.youtube.com/embed/0V6xMXv3Y0A?autoplay=1&loop=1&playlist=0V6xMXv3Y0A&controls=0&mute=0](https://www.youtube.com/watch?v=bp0LWCZJssw)"
+    frameborder="0"
+    allow="autoplay"
+  ></iframe>
+</div>
     Your browser does not support the audio element.
   </audio>
 

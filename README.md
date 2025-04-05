@@ -114,7 +114,7 @@
 
   <!-- Background music -->
   <audio autoplay loop>
-    <source src="https://your-music-url.com/music.mp3" type="audio/mpeg">
+    <source src="happy-birthday-254480.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 

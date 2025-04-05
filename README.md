@@ -16,8 +16,8 @@
     }
 
     h1 {
-      font-size: 3em;
-      margin-top: 20px;
+      font-size: 1.5em;
+      margin-top: 15px;
     }
 
     p {

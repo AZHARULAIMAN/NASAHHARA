@@ -99,7 +99,7 @@ diuji oleh yang Esa. Semoga awak sentiasa kuat okay. I'm always here for you.. I
   <iframe
     width="0"
     height="0"
-    src="[https://www.youtube.com/embed/0V6xMXv3Y0A?autoplay=1&loop=1&playlist=0V6xMXv3Y0A&controls=0&mute=0](https://www.youtube.com/watch?v=bp0LWCZJssw)"
+    src="https://www.youtube.com/watch?v=bp0LWCZJssw"
     frameborder="0"
     allow="autoplay"
   ></iframe>

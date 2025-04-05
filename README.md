@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  /*<meta name="viewport" content="width=device-width, initial-scale=1.0"/>*/
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Happy Birthday Nasahhara! 🎉</title>
   <style>
     body {
@@ -16,7 +16,7 @@
     }
     h1 {
       font-size: 0.2em;
-      /* margin-top: 25px; */
+      margin-top: 25px;
     }
     p {
       font-size: 0.8em;

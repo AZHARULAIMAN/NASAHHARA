@@ -84,22 +84,10 @@ diuji oleh yang Esa. Semoga awak sentiasa kuat okay. I'm always here for you.. I
 
   <!-- Girlfriend Image -->
   <img src="IMG-20250401-WA0002.jpg" alt="My Beautiful Girlfriend" />
-   <a href="FB_VID_3300536119473816444.mp4" class="button">Click Here !</a>
+
   <!-- Video button -->
+   <a href="FB_VID_3300536119473816444.mp4" class="button">Click Here !</a>
   <br />
-  <!-- Background music -->
-  <audio autoplay loop>
-<div style="position: absolute; left: -9999px;">
-  <iframe
-    width="0"
-    height="0"
-    src="https://www.youtube.com/watch?v=bp0LWCZJssw"
-    frameborder="0"
-    allow="autoplay"
-  ></iframe>
-</div>
-    Your browser does not support the audio element.
-  </audio>
 
   <!-- Floating hearts -->
   <script>

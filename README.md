@@ -42,25 +42,6 @@
         .button:hover {
             background-color: #ff1a1a;
         }
-    .video-button {
-      padding: 10px 20px;
-      font-size: 1em;
-      background-color: #FFB3C6;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-    }
-
-    .video-button:hover {
-      background-color: #FF8FAB;
-    }
-
-    #videoContainer {
-      display: none;
-      margin-top: 20px;
-    }
-
     /* Floating heart animation */
     .heart {
       position: absolute;
@@ -113,14 +94,6 @@ diuji oleh yang Esa. That's means menunjukkan kita hanya manusia biasa yang kuat
    <a href="FB_VID_3300536119473816444.mp4" class="button">Click Here !</a>
   <!-- Video button -->
   <br />
-  <button class="video-button" onclick="showVideo()">Watch a Special Video 🎥</button>
-
-  <!-- Video section -->
-  <div id="videoContainer">
-    <video width="320" height="240" controls autoplay>
-      <source src="FB_VID_3300536119473816444.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
   </div>
 
   <!-- Background music -->
